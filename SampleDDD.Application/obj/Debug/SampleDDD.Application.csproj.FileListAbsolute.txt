@@ -1,0 +1,7 @@
+C:\Users\khaueviana\Desktop\Temp\Estudos\SampleDDD\SampleDDD.Application\bin\Debug\SampleDDD.Application.dll
+C:\Users\khaueviana\Desktop\Temp\Estudos\SampleDDD\SampleDDD.Application\bin\Debug\SampleDDD.Application.pdb
+C:\Users\khaueviana\Desktop\Temp\Estudos\SampleDDD\SampleDDD.Application\obj\Debug\SampleDDD.Application.dll
+C:\Users\khaueviana\Desktop\Temp\Estudos\SampleDDD\SampleDDD.Application\obj\Debug\SampleDDD.Application.pdb
+C:\Users\khaueviana\Desktop\Temp\Estudos\SampleDDD\SampleDDD.Application\bin\Debug\SampleDDD.Domain.dll
+C:\Users\khaueviana\Desktop\Temp\Estudos\SampleDDD\SampleDDD.Application\bin\Debug\SampleDDD.Domain.pdb
+C:\Users\khaueviana\Desktop\Temp\Estudos\SampleDDD\SampleDDD.Application\obj\Debug\SampleDDD.Application.csprojResolveAssemblyReference.cache
