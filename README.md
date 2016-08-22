@@ -1,4 +1,4 @@
-# ddd-eduardo-pires-sample
+# ddd-eduardo-pires
 
 Example application DDD based on the current tutorial MVP Eduardo Pires:
 
